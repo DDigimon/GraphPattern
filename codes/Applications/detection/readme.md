@@ -1,0 +1,1 @@
+step 1. run main.py to detection patterns
